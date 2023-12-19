@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá, seja bem vindo!👋
 
 Eu sou Gustavo Luna. Sou um programador Front End, atualmente estou aprendendo e criando projetos com as seguintes tecnologias:
 <br>
